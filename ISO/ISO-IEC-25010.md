@@ -1,6 +1,9 @@
 
 # ISO/IEC 25010-The Quality Model
 
+A product quality model that is applicable to ICT products and software products.
+* Source: [Standard](https://www.iso.org/standard/78176.html)
+
 | Main category | Sub category | Description | 
 |--------|:-------------------------------------------------------:|:-------------------------------------------------------|
 | Functional Suitability  | Functional correctness  | Degree to which a product or system provides accurate results when used by intended users.  | 
@@ -8,7 +11,7 @@
 |  Performance Efficiency  | Time behaviour  | Degree to which the response time and throughput rates of a product or system, when performing its functions, meet requirements | 
 |    | Resource utilization  | Degree to which the amounts and types of resources used by a product or system, when performing its functions, meet requirements | 
 |    | Capacity  | Degree to which the maximum limits of a product or system parameter meet requirements. | 
-|  Compatability  | Co-existence  | Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product. | 
+|  Compatibility  | Co-existence  | Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product. | 
 |    | Interoperability  | Degree to which a system, product or component can exchange information with other products and mutually use the information that has been exchanged. | 
 | Interaction Capability | Appropriateness recognizability | Degree to which users can recognize whether a product or system is appropriate for their needs. | 
 |    | Learnability |  Degree to which the functions of a product or system can be learnt to be used by specified users within a specified amount of time. | 
